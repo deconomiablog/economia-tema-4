@@ -8,9 +8,9 @@ Abre `index.html` en un navegador. No requiere instalación, servidor, claves, r
 
 ## Contenido
 
-60 preguntas, 12 por bloque: demanda; oferta; equilibrio de mercado; cambios simultáneos; elasticidad de demanda y oferta. Incluye 14 cálculos, preguntas conceptuales y de verdadero/falso razonado, gráficos SVG trazados a partir de funciones, pistas y explicación de las respuestas.
+125 preguntas, 25 por bloque: demanda; oferta; equilibrio de mercado; cambios simultáneos; elasticidad de demanda y oferta. Incluye 33 cálculos, preguntas conceptuales y de verdadero/falso razonado, gráficos SVG trazados a partir de funciones, pistas y explicación de las respuestas.
 
-Tres modos: Aprender (pistas y corrección inmediata), Practicar (sin pistas), Comprobarme (corrección final). Sesiones mixtas de 15 preguntas, tres de cada bloque. Orden aleatorio de preguntas y alternativas, repaso de errores, reanudación de sesión y descarga del progreso en texto.
+Tres modos: Aprender (pistas y corrección inmediata), Practicar (sin pistas), Comprobarme (corrección final). Prácticas de 10 preguntas por bloque y sesiones mixtas de 10, dos de cada bloque. El repaso de errores selecciona hasta 10. Selección con prioridad a preguntas nunca presentadas o presentadas hace más sesiones; desempate aleatorio y alternativas barajadas. Los 25 ítems de un bloque se recorren antes de repetir los más recientes. Si se practica de nuevo en otro dispositivo o se borra el almacenamiento, se reinicia también este historial. repaso de errores, reanudación de sesión y descarga del progreso en texto.
 
 Cada barra refleja cuántas preguntas distintas están correctas en el último intento, no una estimación de dominio. El informe final muestra los errores conceptuales a repasar. No sustituye la evaluación docente.
 
@@ -45,4 +45,4 @@ Las soluciones forman parte de los archivos públicos: esta web es para práctic
 
 ## Verificación
 
-Pruebas automatizadas de las 60 respuestas correctas, reparto por bloques, valores numéricos, gráficos, entrada decimal, errores, doble envío, informe y recuperación de sesión. Prueba manual en navegador de una sesión completa, corrección incorrecta, pistas, recarga y corrección diferida. Diseño adaptable con CSS para móvil; no se ha realizado una prueba física en móvil.
+Pruebas automatizadas de las 125 respuestas correctas, reparto por bloques, valores numéricos, gráficos, entrada decimal, errores, doble envío, informe y recuperación de sesión. Prueba manual en navegador de una sesión completa, corrección incorrecta, pistas, recarga y corrección diferida. Diseño adaptable con CSS para móvil; no se ha realizado una prueba física en móvil.

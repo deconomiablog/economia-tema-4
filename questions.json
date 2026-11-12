@@ -842,5 +842,904 @@
     "why": "A largo plazo se pueden cambiar instalaciones y equipos. Esto suele permitir responder más, pero no implica elasticidad infinita ni que el precio deje de importar.",
     "hint": "Distingue usar capacidad libre de construir nueva capacidad.",
     "graph": null
+  },
+  {
+    "id": 61,
+    "b": 0,
+    "topic": "Renta y bien normal",
+    "text": "Las entradas de cine son un bien normal. Baja la renta. A cada precio…",
+    "options": [
+      "Se demandan menos entradas.",
+      "Se demandan más entradas.",
+      "Solo hay un movimiento por D."
+    ],
+    "correct": 0,
+    "why": "La menor renta reduce la demanda de un bien normal: D se desplaza a la izquierda. No ha cambiado el precio propio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 62,
+    "b": 0,
+    "topic": "Bien inferior",
+    "text": "Disminuye la renta de los compradores de un bien inferior. Su demanda…",
+    "options": [
+      "Aumenta.",
+      "Disminuye.",
+      "Desaparece."
+    ],
+    "correct": 0,
+    "why": "En un bien inferior, renta y demanda varían en sentido contrario. Inferior no significa que nadie lo quiera.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 63,
+    "b": 0,
+    "topic": "Sustitutivos",
+    "text": "Mantequilla y margarina son sustitutivos. Baja el precio de la margarina. La demanda de mantequilla…",
+    "options": [
+      "Disminuye.",
+      "Aumenta.",
+      "No puede cambiar."
+    ],
+    "correct": 0,
+    "why": "La margarina resulta relativamente más atractiva y parte del consumo se traslada hacia ella. D de mantequilla se desplaza a la izquierda.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 64,
+    "b": 0,
+    "topic": "Complementarios",
+    "text": "Impresoras y cartuchos son complementarios. Baja el precio de las impresoras. La demanda de cartuchos…",
+    "options": [
+      "Aumenta.",
+      "Disminuye.",
+      "Solo se mueve por su curva inicial."
+    ],
+    "correct": 0,
+    "why": "Al comprarse más impresoras, aumenta la demanda de cartuchos. El precio que cambia es el de otro bien: se desplaza D de cartuchos.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 65,
+    "b": 0,
+    "topic": "Expectativas",
+    "text": "Una consola será más cara la próxima semana. Algunos compradores adelantan sus compras. Hoy su demanda…",
+    "options": [
+      "Aumenta.",
+      "Disminuye.",
+      "No cambia hasta la próxima semana."
+    ],
+    "correct": 0,
+    "why": "La expectativa induce a comprar hoy, aun sin variar el precio actual. Por tanto aumenta la demanda actual.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 66,
+    "b": 0,
+    "topic": "Gustos",
+    "text": "Unas zapatillas dejan de estar de moda, sin cambiar su precio. ¿Cómo se representa?",
+    "options": [
+      "D se desplaza a la izquierda.",
+      "Movimiento descendente por D.",
+      "O se desplaza a la derecha."
+    ],
+    "correct": 0,
+    "why": "La pérdida de preferencia reduce la cantidad demandada a cada precio. No se menciona un cambio de oferta.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 67,
+    "b": 0,
+    "topic": "Función de demanda",
+    "text": "Qd = 240 − 8P. Si P = 20 €, calcula Qd.",
+    "answer": 80,
+    "unit": "unidades",
+    "why": "Qd = 240 − 8 × 20 = 80.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 68,
+    "b": 0,
+    "topic": "Cambio de cantidad",
+    "text": "Qd = 240 − 8P. P baja de 20 a 15 €. ¿En cuántas unidades aumenta Qd?",
+    "answer": 40,
+    "unit": "unidades",
+    "why": "Qd pasa de 80 a 120: aumenta 40. Es un movimiento por la misma curva.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 69,
+    "b": 0,
+    "topic": "Lectura de tabla",
+    "text": "P = 5 €, Qd = 100; P = 10 €, Qd = 60. Sin otros cambios, estos datos son…",
+    "options": [
+      "Dos puntos de una misma demanda.",
+      "Dos demandas distintas necesariamente.",
+      "Una demanda creciente."
+    ],
+    "correct": 0,
+    "why": "Al variar solo el precio propio, la tabla recoge puntos distintos de la misma curva decreciente.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 70,
+    "b": 0,
+    "topic": "Precio constante",
+    "text": "A 8 € se querían comprar 100 unidades y ahora 150. ¿Qué podemos afirmar?",
+    "options": [
+      "Aumenta la demanda a ese precio.",
+      "El aumento se debe a que bajó el precio de 8 €.",
+      "Se incumple necesariamente la ley de demanda."
+    ],
+    "correct": 0,
+    "why": "Se compara más cantidad al mismo precio. Algún otro determinante ha cambiado; no se trata de una bajada del precio propio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 71,
+    "b": 0,
+    "topic": "Relación entre bienes",
+    "text": "Al subir el precio de A aumenta la demanda de B, ceteris paribus. Es compatible con que sean…",
+    "options": [
+      "Sustitutivos.",
+      "Complementarios.",
+      "El mismo bien necesariamente."
+    ],
+    "correct": 0,
+    "why": "B se utiliza como alternativa a A. Para complementarios, el efecto habitual sería una menor demanda de B.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 72,
+    "b": 0,
+    "topic": "Movimiento inverso",
+    "text": "En la gráfica de demanda, pasar de B a A implica…",
+    "options": [
+      "Mayor precio y menor cantidad demandada.",
+      "Menor demanda por una caída de renta.",
+      "Menor precio y mayor cantidad."
+    ],
+    "correct": 0,
+    "why": "A tiene mayor precio y menor cantidad que B. Los dos puntos pertenecen a la misma D: no hay desplazamiento.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": "dmove"
+  },
+  {
+    "id": 73,
+    "b": 0,
+    "topic": "Verdadero o falso",
+    "text": "«Un bien inferior es un producto sin compradores».",
+    "options": [
+      "Falso: se define por su relación con la renta.",
+      "Verdadero: inferior significa sin demanda.",
+      "Falso: es un producto cuyo precio siempre baja."
+    ],
+    "correct": 0,
+    "why": "Un bien inferior puede tener numerosos compradores. Su demanda disminuye cuando aumenta la renta, ceteris paribus.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 74,
+    "b": 1,
+    "topic": "Costes menores",
+    "text": "Baja el coste de electricidad de una fábrica. Su oferta, ceteris paribus…",
+    "options": [
+      "Aumenta.",
+      "Disminuye.",
+      "Solo cambia por un movimiento sobre O."
+    ],
+    "correct": 0,
+    "why": "Menores costes permiten ofrecer más a cada precio. O se desplaza a la derecha.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 75,
+    "b": 1,
+    "topic": "Coste laboral",
+    "text": "Sube el coste salarial por unidad producida, sin mejora de productividad. La oferta…",
+    "options": [
+      "Disminuye.",
+      "Aumenta.",
+      "Es independiente de los costes."
+    ],
+    "correct": 0,
+    "why": "El coste por unidad aumenta, por lo que se ofrece menos a cada precio del producto: O se desplaza a la izquierda.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 76,
+    "b": 1,
+    "topic": "Producción alternativa",
+    "text": "Una fábrica produce camisetas o sudaderas. Baja el precio de las sudaderas y reasigna recursos a camisetas. La oferta de camisetas…",
+    "options": [
+      "Aumenta.",
+      "Disminuye.",
+      "No puede variar si su precio no cambia."
+    ],
+    "correct": 0,
+    "why": "Al dedicar más recursos a camisetas se puede ofrecer más a cada precio. Cambia la producción alternativa, no el precio propio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 77,
+    "b": 1,
+    "topic": "Expectativas",
+    "text": "Se espera una bajada futura del precio y un vendedor adelanta hoy ventas de existencias. Su oferta actual…",
+    "options": [
+      "Aumenta.",
+      "Disminuye.",
+      "No puede depender de expectativas."
+    ],
+    "correct": 0,
+    "why": "La conducta descrita adelanta las ventas: hoy se ofrece más a cada precio. No se trata de una regla universal para cualquier expectativa.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 78,
+    "b": 1,
+    "topic": "Inversión",
+    "text": "Ante mayores ventas esperadas, una empresa amplía sus instalaciones. Cuando funcionen…",
+    "options": [
+      "Podrá aumentar la oferta a cada precio.",
+      "Solo podrá moverse por la antigua O.",
+      "La demanda disminuirá necesariamente."
+    ],
+    "correct": 0,
+    "why": "La ampliación de capacidad puede desplazar O a la derecha. No es una mera variación del precio propio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 79,
+    "b": 1,
+    "topic": "Función de oferta",
+    "text": "Qo = 10P − 40. Si P = 9 €, calcula Qo.",
+    "answer": 50,
+    "unit": "unidades",
+    "why": "Qo = 10 × 9 − 40 = 50.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 80,
+    "b": 1,
+    "topic": "Cambio de cantidad",
+    "text": "Qo = 10P − 40. P sube de 9 a 12 €. ¿En cuántas unidades aumenta Qo?",
+    "answer": 30,
+    "unit": "unidades",
+    "why": "Qo pasa de 50 a 80: aumenta 30 unidades sobre la misma curva.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 81,
+    "b": 1,
+    "topic": "Precio constante",
+    "text": "Una innovación permite ofrecer 110 unidades a 12 €, cuando antes se ofrecían 80 al mismo precio. ¿Qué ocurre?",
+    "options": [
+      "Aumenta la oferta.",
+      "Solo hay un movimiento causado por el precio.",
+      "Disminuye la oferta."
+    ],
+    "correct": 0,
+    "why": "El precio se mantiene: cambia la relación entre precios y cantidades ofrecidas debido a la tecnología.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 82,
+    "b": 1,
+    "topic": "Ley de oferta",
+    "text": "Se ofrecen 20 unidades a 4 € y 40 a 6 €, sin otros cambios. Esto muestra…",
+    "options": [
+      "Relación directa entre P y Qo.",
+      "Una oferta decreciente.",
+      "Un desplazamiento de oferta por tecnología."
+    ],
+    "correct": 0,
+    "why": "Un mayor precio propio corresponde a una mayor cantidad ofrecida. No se indica cambio tecnológico.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 83,
+    "b": 1,
+    "topic": "Movimiento inverso",
+    "text": "En la gráfica de oferta, pasar de B a A implica…",
+    "options": [
+      "Menor precio y menor cantidad ofrecida.",
+      "Desplazamiento de O a la izquierda.",
+      "Mayor precio y menor cantidad."
+    ],
+    "correct": 0,
+    "why": "A está por debajo y a la izquierda de B, en la misma curva. Se trata de un movimiento.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": "omove"
+  },
+  {
+    "id": 84,
+    "b": 1,
+    "topic": "Oferta y demanda",
+    "text": "Sube la renta de los compradores de un bien normal. ¿Desplaza directamente su oferta?",
+    "options": [
+      "No: modifica directamente la demanda.",
+      "Sí: la renta es un coste productivo.",
+      "Sí: comprar más siempre desplaza O."
+    ],
+    "correct": 0,
+    "why": "La renta afecta a D. El posterior cambio de precio puede generar un movimiento por O, sin desplazarla.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 85,
+    "b": 1,
+    "topic": "Menor eficiencia",
+    "text": "Una avería obliga a usar un proceso más costoso. Se ofrece menos a cada precio. ¿Qué cambia?",
+    "options": [
+      "O se desplaza a la izquierda.",
+      "D se desplaza a la derecha.",
+      "O se desplaza a la derecha."
+    ],
+    "correct": 0,
+    "why": "La menor eficiencia encarece la producción y reduce la oferta. Comparar cantidades a cada precio identifica un desplazamiento.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 86,
+    "b": 1,
+    "topic": "Verdadero o falso",
+    "text": "«Un aumento de oferta significa que se ofrece más a cada precio».",
+    "options": [
+      "Verdadero: O se desplaza a la derecha.",
+      "Falso: solo significa que ha subido el precio.",
+      "Verdadero: O se desplaza a la izquierda."
+    ],
+    "correct": 0,
+    "why": "Un aumento de O afecta a la relación completa. Ofrecer más porque sube el precio propio es un movimiento sobre O.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 87,
+    "b": 2,
+    "topic": "Equilibrio",
+    "text": "Qd = 300 − 10P y Qo = 20P. Calcula P*.",
+    "answer": 10,
+    "unit": "€",
+    "why": "300 − 10P = 20P → 300 = 30P → P* = 10.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 88,
+    "b": 2,
+    "topic": "Cantidad de equilibrio",
+    "text": "Qd = 300 − 10P y Qo = 20P. Si P* = 10 €, calcula Q*.",
+    "answer": 200,
+    "unit": "unidades",
+    "why": "Qo = 20 × 10 = 200. En demanda también resulta 200.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 89,
+    "b": 2,
+    "topic": "Exceso de oferta",
+    "text": "Se ofrecen 450 unidades y se demandan 280 al mismo precio. Calcula el exceso de oferta.",
+    "answer": 170,
+    "unit": "unidades",
+    "why": "Exceso de oferta = 450 − 280 = 170.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 90,
+    "b": 2,
+    "topic": "Tabla de mercado",
+    "text": "A 6 €: Qd=90, Qo=50. A 8 €: Qd=70, Qo=70. A 10 €: Qd=50, Qo=90. ¿Cuál es el equilibrio?",
+    "options": [
+      "8 € y 70 unidades.",
+      "6 € y 90 unidades.",
+      "10 € y 90 unidades."
+    ],
+    "correct": 0,
+    "why": "Solo a 8 € coinciden Qd y Qo. A 6 € hay exceso de demanda y a 10 €, exceso de oferta.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 91,
+    "b": 2,
+    "topic": "Existencias",
+    "text": "Hay exceso de oferta y se acumulan existencias sin vender. Si el precio es flexible…",
+    "options": [
+      "Hay presión para que baje.",
+      "Hay presión para que suba.",
+      "Desaparece la demanda."
+    ],
+    "correct": 0,
+    "why": "Las existencias incentivan rebajas. Al bajar P, aumenta Qd y disminuye Qo, acercándose al equilibrio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 92,
+    "b": 2,
+    "topic": "Escasez",
+    "text": "Qd supera Qo y algunos compradores no consiguen el producto. Hay…",
+    "options": [
+      "Exceso de demanda.",
+      "Exceso de oferta.",
+      "Equilibrio porque se realizan ventas."
+    ],
+    "correct": 0,
+    "why": "Las compras deseadas superan la cantidad ofrecida. Que haya ventas no implica equilibrio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 93,
+    "b": 2,
+    "topic": "Ajuste del precio",
+    "text": "El precio baja para corregir un exceso de oferta, sin otros cambios. Esto se representa con…",
+    "options": [
+      "Movimientos por las curvas existentes.",
+      "Desplazamientos de ambas curvas a la derecha.",
+      "Un desplazamiento de D a la izquierda."
+    ],
+    "correct": 0,
+    "why": "Solo varía el precio propio. Qd aumenta y Qo disminuye sobre las mismas curvas.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 94,
+    "b": 2,
+    "topic": "Demanda mayor",
+    "text": "La oferta es Qo = 20P. La demanda pasa a Qd₁ = 360 − 10P. Calcula el nuevo precio de equilibrio.",
+    "answer": 12,
+    "unit": "€",
+    "why": "360 − 10P = 20P → P₁ = 12 €. Q₁ = 240.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 95,
+    "b": 2,
+    "topic": "Oferta mayor",
+    "text": "Qd = 300 − 10P. La oferta pasa a Qo₁ = 20P + 60. Calcula el nuevo precio de equilibrio.",
+    "answer": 8,
+    "unit": "€",
+    "why": "300 − 10P = 20P + 60 → 240 = 30P → P₁ = 8 €. Q₁ = 220.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 96,
+    "b": 2,
+    "topic": "Bien inferior",
+    "text": "Baja la renta y el producto es un bien inferior. Con O constante y creciente…",
+    "options": [
+      "Suben P* y Q*.",
+      "Bajan P* y Q*.",
+      "Sube P* y baja Q*."
+    ],
+    "correct": 0,
+    "why": "La menor renta aumenta D del bien inferior. El nuevo cruce con O tiene mayor precio y cantidad.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 97,
+    "b": 2,
+    "topic": "Complementarios",
+    "text": "Sube el precio de las consolas. Con O de videojuegos constante y creciente, su equilibrio tiende a…",
+    "options": [
+      "Menor precio y cantidad.",
+      "Mayor precio y cantidad.",
+      "Mayor precio y menor cantidad."
+    ],
+    "correct": 0,
+    "why": "Al ser complementarios, disminuye D de videojuegos. El nuevo cruce con O tiene menor P y Q.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 98,
+    "b": 2,
+    "topic": "Sustitutivos",
+    "text": "Sube el precio del tren. Con O de autobús constante y creciente, si son sustitutivos, en autobús habrá…",
+    "options": [
+      "Mayor precio y cantidad de equilibrio.",
+      "Menor precio y mayor cantidad.",
+      "Menor precio y cantidad."
+    ],
+    "correct": 0,
+    "why": "Los viajeros demandan más autobús como alternativa. D se desplaza a la derecha.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 99,
+    "b": 2,
+    "topic": "Verdadero o falso",
+    "text": "«En equilibrio el bien tiene que ser gratuito».",
+    "options": [
+      "Falso: equilibrio significa Qd = Qo, no precio cero.",
+      "Verdadero: el precio desaparece.",
+      "Falso: equilibrio significa Qo mayor que Qd."
+    ],
+    "correct": 0,
+    "why": "La coincidencia de cantidades puede producirse a un precio positivo. Equilibrio no equivale a gratuidad.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 100,
+    "b": 3,
+    "topic": "Indeterminación",
+    "text": "Cuando D y O aumentan, decir que el precio es indeterminado significa…",
+    "options": [
+      "Puede subir, bajar o mantenerse según las magnitudes.",
+      "Se mantiene obligatoriamente.",
+      "No existe un nuevo equilibrio."
+    ],
+    "correct": 0,
+    "why": "Faltan datos para conocer el sentido del cambio de P. No significa que no cambie ni que no exista equilibrio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 101,
+    "b": 3,
+    "topic": "Moda y tecnología",
+    "text": "Un producto se pone de moda y una innovación abarata su fabricación. ¿Qué es seguro con curvas habituales?",
+    "options": [
+      "Aumenta la cantidad de equilibrio.",
+      "Siempre aumenta el precio.",
+      "Disminuye la cantidad."
+    ],
+    "correct": 0,
+    "why": "D y O aumentan. Ambos efectos elevan Q, pero sus efectos sobre P son contrarios.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 102,
+    "b": 3,
+    "topic": "Renta y costes",
+    "text": "Un bien es normal. Cae la renta y aumentan los costes de producción. ¿Qué es seguro?",
+    "options": [
+      "Disminuye Q*.",
+      "Disminuye P*.",
+      "Aumenta P*."
+    ],
+    "correct": 0,
+    "why": "D y O disminuyen. Ambos reducen Q; el resultado de P depende de las magnitudes.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 103,
+    "b": 3,
+    "topic": "Compras aplazadas",
+    "text": "Los compradores aplazan compras de móviles por próximas rebajas y mejora la tecnología de fabricación. El precio actual de equilibrio…",
+    "options": [
+      "Disminuye.",
+      "Aumenta.",
+      "Se mantiene siempre porque los efectos se anulan."
+    ],
+    "correct": 0,
+    "why": "D disminuye y O aumenta: ambos cambios reducen P*. La cantidad es indeterminada sin más datos.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 104,
+    "b": 3,
+    "topic": "Renta y alternativas",
+    "text": "Sube la renta y el bien es normal. A la vez, los productores trasladan recursos a otro bien más rentable. ¿Qué es seguro?",
+    "options": [
+      "Sube el precio de equilibrio.",
+      "Baja la cantidad.",
+      "Sube la cantidad."
+    ],
+    "correct": 0,
+    "why": "D aumenta y O disminuye: P sube por ambos efectos. Q depende de la magnitud de cada cambio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 105,
+    "b": 3,
+    "topic": "Cambios compensados",
+    "text": "Antes P*=15 € y Q*=200. Ahora Qd₁ = 600 − 20P y Qo₁ = 20P. Calcula el nuevo precio.",
+    "answer": 15,
+    "unit": "€",
+    "why": "600 − 20P = 20P → P₁ = 15 €. La cantidad aumenta a 300 aunque el precio no cambie.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 106,
+    "b": 3,
+    "topic": "Mismo precio",
+    "text": "D y O aumentan y P* se mantiene. ¿Qué ocurre con Q*?",
+    "options": [
+      "Aumenta.",
+      "Se mantiene también.",
+      "Disminuye."
+    ],
+    "correct": 0,
+    "why": "Ambas curvas se desplazan a la derecha y permiten intercambiar más al mismo precio. Mismo P no significa mismo equilibrio.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 107,
+    "b": 3,
+    "topic": "Dos aumentos",
+    "text": "Antes P*=15 € y Q*=200. Ahora Qd₁ = 600 − 20P y Qo₁ = 20P + 80. Calcula P₁.",
+    "answer": 13,
+    "unit": "€",
+    "why": "600 − 20P = 20P + 80 → P₁ = 13 €. Q₁ = 340: ambos aumentos pueden reducir P.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 108,
+    "b": 3,
+    "topic": "Dos disminuciones",
+    "text": "Ahora Qd₁ = 400 − 20P y Qo₁ = 20P − 200. Calcula la cantidad de equilibrio.",
+    "answer": 100,
+    "unit": "unidades",
+    "why": "400 − 20P = 20P − 200 → P₁ = 15 €. Q₁ = 100.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 109,
+    "b": 3,
+    "topic": "D mayor, O menor",
+    "text": "Qd₁ = 600 − 20P y Qo₁ = 20P − 200. Calcula Q*.",
+    "answer": 200,
+    "unit": "unidades",
+    "why": "600 − 20P = 20P − 200 → P₁ = 20 €. Q₁ = 200. Frente a P=15, Q=200 iniciales, sube P pero no cambia Q.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 110,
+    "b": 3,
+    "topic": "D menor, O mayor",
+    "text": "Qd₁ = 400 − 20P y Qo₁ = 20P. Calcula el precio de equilibrio.",
+    "answer": 10,
+    "unit": "€",
+    "why": "400 − 20P = 20P → P₁ = 10 €. Q₁ = 200.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 111,
+    "b": 3,
+    "topic": "Lectura gráfica",
+    "text": "En la gráfica D aumenta y O disminuye. Antes de calcular el nuevo cruce, ¿qué puedes asegurar?",
+    "options": [
+      "Sube el precio.",
+      "Baja la cantidad.",
+      "Sube la cantidad."
+    ],
+    "correct": 0,
+    "why": "Los dos cambios elevan P. La cantidad requiere localizar el nuevo cruce o conocer la magnitud de los cambios.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": "sim17"
+  },
+  {
+    "id": 112,
+    "b": 3,
+    "topic": "Método",
+    "text": "Para analizar dos desplazamientos simultáneos hay que…",
+    "options": [
+      "Comparar la intersección nueva con la inicial.",
+      "Contar las flechas hacia la derecha.",
+      "Mirar solo la demanda."
+    ],
+    "correct": 0,
+    "why": "El equilibrio depende de ambas curvas y sus magnitudes. Contar flechas no resuelve los casos indeterminados.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 113,
+    "b": 4,
+    "topic": "Demanda inelástica",
+    "text": "Si D es inelástica en todo el intervalo y sube el precio, los ingresos totales…",
+    "options": [
+      "Aumentan.",
+      "Disminuyen siempre.",
+      "No cambian nunca."
+    ],
+    "correct": 0,
+    "why": "La reducción proporcional de Q es menor que la subida proporcional de P: domina el efecto precio en P × Q.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 114,
+    "b": 4,
+    "topic": "Ingresos y beneficio",
+    "text": "Una rebaja eleva los ingresos. ¿Garantiza un mayor beneficio?",
+    "options": [
+      "No: hay que conocer los costes.",
+      "Sí: ingresos y beneficio son lo mismo.",
+      "No: toda rebaja reduce el beneficio."
+    ],
+    "correct": 0,
+    "why": "Beneficio = ingresos − costes. Vender más puede incrementar también los costes, por lo que el beneficio no está garantizado.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 115,
+    "b": 4,
+    "topic": "Respuesta proporcional",
+    "text": "P sube un 8 % y Qd baja un 8 %. Calcula |Ed| con estos porcentajes.",
+    "answer": 1,
+    "unit": "sin unidades",
+    "why": "|Ed| = 8/8 = 1. Este cociente no implica que toda la curva tenga elasticidad constante.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 116,
+    "b": 4,
+    "topic": "Demanda sensible",
+    "text": "P pasa de 10 a 12 € y Qd de 100 a 60. Usando valores iniciales, calcula |Ed|.",
+    "answer": 2,
+    "unit": "sin unidades",
+    "why": "P sube un 20 % y Qd baja un 40 %. |Ed| = 40/20 = 2.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 117,
+    "b": 4,
+    "topic": "Oferta inelástica",
+    "text": "P pasa de 10 a 12 € y Qo de 200 a 220. Con valores iniciales, calcula Eo.",
+    "answer": 0.5,
+    "unit": "sin unidades",
+    "why": "P sube un 20 % y Qo un 10 %. Eo = 10/20 = 0,5.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 118,
+    "b": 4,
+    "topic": "Oferta unitaria",
+    "text": "P aumenta un 15 % y Qo un 15 %. Calcula Eo.",
+    "answer": 1,
+    "unit": "sin unidades",
+    "why": "Eo = 15/15 = 1: ambas variables cambian en la misma proporción.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 119,
+    "b": 4,
+    "topic": "Capacidad libre",
+    "text": "Ante la misma subida de precio, ¿qué fábrica suele aumentar más su producción a corto plazo?",
+    "options": [
+      "La que dispone de máquinas libres.",
+      "La que ya trabaja al máximo necesariamente.",
+      "Ambas responden siempre igual."
+    ],
+    "correct": 0,
+    "why": "La capacidad libre facilita elevar la producción sin ampliar instalaciones. Suele permitir mayor elasticidad de oferta.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 120,
+    "b": 4,
+    "topic": "Necesidad",
+    "text": "Un producto imprescindible con pocos sustitutivos suele tener una demanda…",
+    "options": [
+      "Más inelástica.",
+      "Más elástica.",
+      "Siempre perfectamente elástica."
+    ],
+    "correct": 0,
+    "why": "La dificultad de sustituirlo o prescindir de él reduce la sensibilidad. Inelástica no significa cantidad invariable.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 121,
+    "b": 4,
+    "topic": "Unidades",
+    "text": "La elasticidad se expresa…",
+    "options": [
+      "Sin unidades: es un cociente de porcentajes.",
+      "En euros.",
+      "En kilos por euro."
+    ],
+    "correct": 0,
+    "why": "Los porcentajes son proporciones. Su cociente es adimensional; no mide cambios absolutos en kilos por euro.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 122,
+    "b": 4,
+    "topic": "Demanda rígida",
+    "text": "Si Qd permanece fija cuando cambia P, |Ed| es…",
+    "options": [
+      "Cero.",
+      "Uno.",
+      "Infinita."
+    ],
+    "correct": 0,
+    "why": "El cambio porcentual de Qd es cero; al dividirlo por una variación no nula de P obtenemos cero.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
+  },
+  {
+    "id": 123,
+    "b": 4,
+    "topic": "Ingresos",
+    "text": "Se venden 1.020 unidades a 0,90 €. Calcula los ingresos totales.",
+    "answer": 918,
+    "unit": "€",
+    "why": "IT = 1.020 × 0,90 = 918 €. No son el beneficio: faltan los costes.",
+    "hint": "Escribe la fórmula y sustituye los datos antes de operar.",
+    "graph": null
+  },
+  {
+    "id": 124,
+    "b": 4,
+    "topic": "Recta y elasticidad",
+    "text": "En P = 10 − Q, A tiene Q=2 y P=8. ¿Cómo es la demanda en A?",
+    "options": [
+      "Elástica: |Ed| = 4.",
+      "Inelástica: |Ed| = 0,25.",
+      "Unitaria: toda recta tiene |Ed| = 1."
+    ],
+    "correct": 0,
+    "why": "En esta recta |dQ/dP|=1 y |Ed|=P/Q=8/2=4. Aunque su pendiente es constante, cambia P/Q.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": "linear"
+  },
+  {
+    "id": 125,
+    "b": 4,
+    "topic": "Tiempo de adaptación",
+    "text": "Al subir la gasolina, una familia apenas cambia sus viajes esa semana, pero años después puede cambiar de vehículo. Esto ilustra…",
+    "options": [
+      "Mayor sensibilidad con más tiempo de adaptación.",
+      "Demanda perfectamente inelástica siempre.",
+      "Desplazamiento obligatorio de D por subir P."
+    ],
+    "correct": 0,
+    "why": "A largo plazo es más fácil ajustar hábitos y equipos. La cantidad suele responder más al precio que de forma inmediata.",
+    "hint": "Identifica qué variable cambia. Compara las situaciones manteniendo constantes los demás factores.",
+    "graph": null
   }
 ]
